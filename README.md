@@ -1,2 +1,2 @@
-# funclib
-Npm Package - Functional Javascript Library
+# @bbones/logger
+Npm Package - Logger Javascript Library
