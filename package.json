@@ -1,6 +1,6 @@
 {
   "name": "@bbones/logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Logging Library",
   "main": "./build/main.js",
   "types": "./build/main.d.ts",
