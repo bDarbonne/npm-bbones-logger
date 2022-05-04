@@ -1,4 +1,3 @@
-import console from 'console'
 
 interface ILogger {
   log: (message:string) => void
